@@ -4,7 +4,7 @@
 - 🎒 Formado em Análise e Desenvolvimento de Sistemas pela ETEP, pós-graduado em Administração de Banco de Dados pela Universidade Anhanguera
 - 🎓 Atualmente cursando Banco de Dados pela FATEC Prof.° Jessen Vidal em São José dos Campos.
 
-[![Fagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=fagnerlouis&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Fagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=fagnerlouis)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📊 Statistics:

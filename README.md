@@ -11,7 +11,7 @@
 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="135" align="center" src="https://github-readme-stats.vercel.app/api?username=fagnerlouis&show_icons=true&theme=radical")/>
+    <img height="135" align="center" src="https://github-readme-stats.vercel.app/api?username=fagnerlouis")/>
     <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fagnerlouis&layout=compact&theme=radical&langs_count=8&card_width=340"/>
 </div>
 

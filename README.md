@@ -8,7 +8,6 @@
 
 
 ### 📊 Statistics:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fagnerlouis)](https://github.com/anuraghazra/github-readme-stats)
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="135" align="center" src="https://github-readme-stats.vercel.app/api?username=fagnerlouis&theme=radical&include_all_commits=true")/>
